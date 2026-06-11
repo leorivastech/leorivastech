@@ -6,9 +6,13 @@ Under the hood, our platform wires together a lot of moving parts — LLM agents
 
 🇲🇽 Built in Mexico. Consistency over virality.
 
-- 🚀 Backends with **FastAPI + MySQL**, agent orchestration with **LangGraph**
+- 🚀 Backends with **FastAPI + MySQL**
+- 🧠 AI engineering: agent orchestration with **LangGraph**, **RAG** + vector search, **MCP servers**, multi-provider LLM pipelines, diffusion models, TTS & speech-to-text
 - 📱 Also skilled in **Dart & Flutter**
-- 🤖 I love AI — excited about the future we get to live in
+
+## Why AI
+
+I fell in love with this field the moment LLMs showed up, and I've believed the same thing ever since: this is the future, and learning to build with AI *right now* is a golden opportunity that won't come around twice. I'm happily addicted — always trying new things, building agents, automating one more piece, pushing a little further every day. I love the future we get to live in, I want to be part of building it, and I don't want to miss a thing.
 
 ## Tech I work with
 

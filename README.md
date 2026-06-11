@@ -16,10 +16,9 @@ Under the hood, our platform wires together a lot of moving parts — LLM agents
   <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,dart,flutter,gcp,docker,ts&perline=8" alt="Tech stack" />
 </p>
 
-## GitHub Stats
+## Top Languages
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=leorivastech&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorivastech&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="160" />
 </p>
 

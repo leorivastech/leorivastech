@@ -1,0 +1,31 @@
+name: Update GitHub card
+
+on:
+  schedule:
+    - cron: "17 9 * * *" # once a day
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Draw card.svg
+        env:
+          # Optional STATS_TOKEN secret; the built-in token is enough for public profile data.
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || github.token }}
+        run: node scripts/card.mjs
+      - name: Commit if changed
+        run: |
+          git diff --quiet card.svg && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add card.svg
+          git commit -m "Update GitHub card"
+          git push

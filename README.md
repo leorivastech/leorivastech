@@ -20,6 +20,12 @@ I fell in love with this field the moment LLMs showed up, and I've believed the 
   <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,dart,flutter,gcp,docker,ts&perline=8" alt="Tech stack" />
 </p>
 
+## GitHub Stats
+
+<p>
+  <img src="./card.svg" alt="Leonel Rivas on GitHub: contributions in the last year" width="800" />
+</p>
+
 ## Top Languages
 
 <p>

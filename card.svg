@@ -86,7 +86,7 @@
     <rect x="716" y="112" width="11" height="11" rx="2.5" fill="#44a5a7"><title>2026-10-11: 35</title></rect><rect x="716" y="126" width="11" height="11" rx="2.5" fill="#7fd6c4"><title>2026-10-12: 131</title></rect><rect x="716" y="140" width="11" height="11" rx="2.5" fill="#008388"><title>2026-10-13: 32</title></rect><rect x="716" y="154" width="11" height="11" rx="2.5" fill="#44a5a7"><title>2026-10-14: 66</title></rect><rect x="716" y="168" width="11" height="11" rx="2.5" fill="#44a5a7"><title>2026-10-15: 67</title></rect><rect x="716" y="182" width="11" height="11" rx="2.5" fill="#0f5a5d"><title>2026-10-16: 8</title></rect><rect x="716" y="196" width="11" height="11" rx="2.5" fill="#008388"><title>2026-10-17: 18</title></rect>
     <rect x="730" y="112" width="11" height="11" rx="2.5" fill="#44a5a7"><title>2026-10-18: 36</title></rect><rect x="730" y="126" width="11" height="11" rx="2.5" fill="#0f5a5d"><title>2026-10-19: 8</title></rect><rect x="730" y="140" width="11" height="11" rx="2.5" fill="#008388"><title>2026-10-20: 10</title></rect><rect x="730" y="154" width="11" height="11" rx="2.5" fill="#44a5a7"><title>2026-10-21: 38</title></rect><rect x="730" y="168" width="11" height="11" rx="2.5" fill="#0f5a5d"><title>2026-10-22: 8</title></rect><rect x="730" y="182" width="11" height="11" rx="2.5" fill="#44a5a7"><title>2026-10-23: 70</title></rect><rect x="730" y="196" width="11" height="11" rx="2.5" fill="#008388"><title>2026-10-24: 14</title></rect>
     <rect x="744" y="112" width="11" height="11" rx="2.5" fill="#0f3f43"><title>2026-10-25: 0</title></rect><rect x="744" y="126" width="11" height="11" rx="2.5" fill="#008388"><title>2026-10-26: 25</title></rect><rect x="744" y="140" width="11" height="11" rx="2.5" fill="#44a5a7"><title>2026-10-27: 45</title></rect><rect x="744" y="154" width="11" height="11" rx="2.5" fill="#008388"><title>2026-10-28: 24</title></rect><rect x="744" y="168" width="11" height="11" rx="2.5" fill="#008388"><title>2026-10-29: 19</title></rect><rect x="744" y="182" width="11" height="11" rx="2.5" fill="#0f3f43"><title>2026-10-30: 0</title></rect><rect x="744" y="196" width="11" height="11" rx="2.5" fill="#0f3f43"><title>2026-10-31: 0</title></rect>
-    <rect x="758" y="112" width="11" height="11" rx="2.5" fill="#0f3f43"><title>2026-11-01: 0</title></rect>
+    <rect x="758" y="112" width="11" height="11" rx="2.5" fill="#0f3f43"><title>2026-11-01: 0</title></rect><rect x="758" y="126" width="11" height="11" rx="2.5" fill="#0f3f43"><title>2026-11-02: 0</title></rect>
   </g>
 
   <g transform="translate(30, 248)">
@@ -106,5 +106,5 @@
       <text y="20" class="label">in private repos</text>
     </g>
 
-  <text x="30" y="290" class="tiny" opacity=".7">public + private · updated 2026-11-01</text>
+  <text x="30" y="290" class="tiny" opacity=".7">public + private · updated 2026-11-02</text>
 </svg>
